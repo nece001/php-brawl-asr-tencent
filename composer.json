@@ -1,6 +1,6 @@
 {
     "name": "nece001/php-brawl-asr-tencent",
-    "description": "php 短信基础服务项目(腾讯云)",
+    "description": "php 语音识别基础服务项目(腾讯云)",
     "type": "library",
     "license": "MIT",
     "autoload": {
@@ -16,6 +16,7 @@
     ],
     "require": {
         "php": ">=7.2",
-        "nece001/php-brawl-asr": "^1.0"
+        "nece001/php-brawl-asr": "^1.0",
+        "nece001/php-brawl-base-tencent": "^1.0"
     }
 }
